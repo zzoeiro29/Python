@@ -1,0 +1,8 @@
+x = int(input('uma distancia em metros: '))
+print("A medida de {}m corresponde a:")
+print(x/1000 , "km")
+print(x/100 , "hm")
+print(x/10 , "dam")
+print(x*10 , "dm")
+print(x*100 , "cm")
+print(x*1000 , "mm")
