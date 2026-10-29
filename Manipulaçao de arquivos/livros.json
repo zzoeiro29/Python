@@ -1,0 +1,16 @@
+[
+  {
+    "id" : 1,
+    "titulo" : "O Senhor dos anéis",
+    "autor " : "jrr tolkein",
+    "preco" : "59.90",
+    "em_estoque" : true
+  },
+  {
+    "id": 2,
+    "titulo" : "1984",
+    "autor " : "george orwell",
+    "preco" : "35.50",
+    "em_estoque" : true
+  }
+]
